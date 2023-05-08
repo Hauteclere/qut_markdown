@@ -12,5 +12,5 @@ Isn't this handy?
 > I'm a genius.
 
 ```bash
-pandoc --standalone -f gfm -t html -o outputname.pdf -c /home/lavers/qut_markdown/qut.css --highlight-style=kate inputname.md
+pandoc --standalone -f gfm -t html -o "/mnt/c/Users/lavers/OneDrive - Queensland University of Technology/Desktop/outputname.pdf" -c /home/lavers/qut_markdown/qut.css --highlight-style=kate inputname.md
 ```
